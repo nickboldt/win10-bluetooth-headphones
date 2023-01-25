@@ -1,1 +1,3 @@
-5C:EB:68:72:BC:DA
+# space sparated values
+Air_By_Aftershokz 20:74:CF:47:52:25
+Soundcore_Life_Q30 AC:12:2F:DB:E4:A0
