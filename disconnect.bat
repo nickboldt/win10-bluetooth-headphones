@@ -8,7 +8,7 @@ if "%1" == "#" (GOTO :eof)
 GOTO :btcom
 
 :btcom
-echo "Disconnecting %1 (%2) ..."
+echo Disconnecting %1 (%2) ...
 btcom -b %2 -r -s110b
 btcom -b %2 -r -s111e
 GOTO :eof
